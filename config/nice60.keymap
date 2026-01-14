@@ -25,12 +25,18 @@
         */
 
         bindings = <
+        &kp Q     &kp W     &kp E       &kp R     &kp T      &kp Y
+        &kp U   &kp I       &kp O     &kp P   &kp A   &kp S       &kp D
+        &kp F   &kp G       &kp H        &kp J      &kp K       &kp L       &kp Z       &kp X
+                                                        &kp C       &kp V       &kp B       &kp N
+        /*
+        bindings = <
         &kp ESC     &kp TAB     &kp N1       &kp UP     &kp N2      &kp N3
         &kp LSHFT   &kp A       &kp LEFT     &kp DOWN   &kp RIGHT   &kp B       &kp RET
         &kp LCTRL   &kp C       &kp D        &kp E      &kp F       &kp G       &kp H       &kp I
                                                         &kp J       &kp K       &kp L       &kp M
+        */
         >;
-
         };
     };
 };
