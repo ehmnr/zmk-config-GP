@@ -38,10 +38,10 @@
             ;
         col-gpios
             = <&gpio1 7 GPIO_ACTIVE_HIGH> /* col 0 */
-            , <&gpio1 15  GPIO_ACTIVE_HIGH> /* col 1 */
+            , <&gpio1 13  GPIO_ACTIVE_HIGH> /* col 1 */
             , <&gpio0 29 GPIO_ACTIVE_HIGH> /* col 2 */
             , <&gpio0 2 GPIO_ACTIVE_HIGH> /* col 3 */
-            , <&gpio1 13 GPIO_ACTIVE_HIGH> /* col 4 */
+            , <&gpio1 15 GPIO_ACTIVE_HIGH> /* col 4 */
             , <&gpio1 11 GPIO_ACTIVE_HIGH> /* col 5 */
             , <&gpio0 10  GPIO_ACTIVE_HIGH> /* col 6 */
             , <&gpio0 9  GPIO_ACTIVE_HIGH> /* col 7 */
