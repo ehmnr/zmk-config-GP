@@ -20,3 +20,6 @@
 ---
 include:
   - board: nice60
+  shield: nicePG
+  - board: nice_nano
+  shield: settings_reset
