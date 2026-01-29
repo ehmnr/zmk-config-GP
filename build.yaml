@@ -20,7 +20,7 @@
 ---
 include:
   - board: nice60
-    shield: nice60
+    shield: nice60_peri
   - board: nice60
     shield: nice60_dongle
   - board: nice60
