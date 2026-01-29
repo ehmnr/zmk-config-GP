@@ -20,5 +20,5 @@
 ---
 include:
   - board: nice60
-  - board: nice_nano
+  - board: nice60
     shield: settings_reset
