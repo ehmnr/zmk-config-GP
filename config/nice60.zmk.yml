@@ -11,7 +11,3 @@ outputs:
   - usb
   - ble
 url: https://nicekeyboards.com/nice-60
-
-siblings:
-  - nice60_left
-  - nice60_dongle
